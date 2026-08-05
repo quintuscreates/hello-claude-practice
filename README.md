@@ -1,6 +1,6 @@
 # Hello Claude Practice
 
-This is a smal practice repository for learning the GitHub pull request workflow with Claude Code.
+This is a small practice repository for learning the GitHub pull request workflow with Claude Code.
 
 ## What this does
 
